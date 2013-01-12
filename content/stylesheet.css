@@ -60,7 +60,7 @@ a:hover {
   margin: 20px;
 }
 
-#main li {
+#main li, #main dl dd {
   font-size: 15px;
   
   line-height: 20px;
@@ -118,4 +118,11 @@ a:hover {
   font-size: 14px;
 
   line-height: 20px;
+}
+
+#footer {
+  border-top: 1px solid #ccc;
+  margin-top: 10px;
+  font-size: 11px;
+  color: #999;
 }
