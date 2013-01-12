@@ -40,6 +40,14 @@ a:hover {
   letter-spacing: -1px;
 }
 
+#main h2 {
+  border-bottom: 1px solid #ccc;
+}
+
+#main h2+h3 {
+  margin-top: 20px;
+}
+
 #main p {
   margin: 20px 0;
   
@@ -60,6 +68,18 @@ a:hover {
 
 #main ul li {
   list-style-type: square;
+}
+
+#main dl {
+  margin: 20px 0;
+}
+
+#main dl dt {
+  font-weight: bold;
+}
+
+#main dl dd {
+  margin: 0 0 10px 20px;
 }
 
 #sidebar {
