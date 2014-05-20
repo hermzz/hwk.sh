@@ -1,0 +1,5 @@
+body { font-family: Baskerville, "Times New Roman", Times, serif; font-size: 0.8em; }
+#sidebar, #footer { display: none; }
+
+a:link, a:visited, a:hover, a:active { color: #000; text-decoration: none; }
+h2 { color: #333; border-bottom: 1px solid #999; }
