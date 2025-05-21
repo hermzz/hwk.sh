@@ -1,9 +1,9 @@
 body { font-size: 0.8em; }
 #sidebar, #footer { display: none; }
 
-a:link, a:visited, a:hover, a:active { color: #000; text-decoration: none; }
+a:link, a:visited, a:hover, a:active { text-decoration: none; }
 h2 { color: #333; border-bottom: 1px solid #999; }
 
 #other-projects { break-before: always; }
 
-#footer, #siderbar, #more-about-me, #more-about-me+p { display: none; }
+#footer, #siderbar { display: none; }
